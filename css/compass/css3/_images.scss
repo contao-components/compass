@@ -1,5 +1,6 @@
 @import "shared";
 @import "compass/utilities/general/hacks";
+@import "compass/utilities/compact";
 
 // Background property support for vendor prefixing within values.
 @mixin background(
