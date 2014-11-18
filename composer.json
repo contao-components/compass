@@ -1,0 +1,12 @@
+{
+    "name": "contao-components/compass",
+    "type": "library",
+    "description": "Compass integration for Contao Open Source CMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Feyer",
+            "homepage": "https://github.com/leofeyer"
+        }
+    ]
+}
